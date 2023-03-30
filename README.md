@@ -18,6 +18,7 @@
 * Spring Boot
 * Spring Data JPA
 * MySQL
+* Spring Security
 
 ## How to set up
 
