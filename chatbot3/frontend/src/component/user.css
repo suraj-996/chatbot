@@ -1,0 +1,41 @@
+/* Style the label text */
+*{
+    margin: auto;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+ 
+
+  /* Style the input fields */
+ input[type="text"],
+  input[type="password"],
+  input[type="email"] {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  /* Style the register button */
+ button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background-color: #1F1FFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+  }
+  
+  /* Style the register button on hover */
+  button[type="submit"]:hover {
+    background-color: #0069d9;
+  }

@@ -1,0 +1,27 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #1F1FFF ;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    text-shadow: 2px 2px 4px #888;
+    margin-right: 100px;
+  }
+  
+  /* h1::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 2px;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    background-color: #FFFFFF;
+  } */
